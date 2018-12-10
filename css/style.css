@@ -1,0 +1,81 @@
+@import 'reset.css';
+
+/* gold: #d77d00; */
+/* green: #4a5f00; */
+/* yellow: #fdb537; */
+
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+}
+
+/* typography */
+
+body {
+  font-size: 62.5%;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-weight: 400;
+}
+
+/* headings */
+
+h1 {
+  color: ;
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-left: 20px;
+}
+
+/* container */
+
+.container {
+  margin: 5rem auto 0;
+  max-width: 545px;
+}
+
+/* form styles */
+
+.form {
+  padding: 20px;
+  background-color: #4a5f00;
+  border-bottom: 10px solid #fdb537;
+}
+
+/* inputs */
+
+.form__input {
+  border: none;
+  display: block;
+  font-size: 1.5rem;
+  height: 2.5rem;
+  margin-top: 2rem;
+  padding-left: 5px;
+  width: 100%;
+}
+
+.form__input-submit {
+  background-color: #fdb537;
+  color: #ffffff;
+}
+
+/* button */
+
+.form__input-submit:hover {
+  cursor: pointer;
+}
+
+.form__input-submit:disabled {
+  background-color:  #d77d00;
+  cursor: default;
+}
+
+/* end form styles */
+
+.result {
+  font-size: 4.5rem;
+  height: 80px;
+  margin-top: 3rem;
+  text-align: center;
+}
+
