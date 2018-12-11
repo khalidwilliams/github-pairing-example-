@@ -1,4 +1,4 @@
-# Github Roadshow
+# Github Pairing Example 
 
 1. Person 2 clones repo
 2. Person 2 works on adding a background color to the numerical output shows
@@ -9,3 +9,5 @@
 7. Person 1 checks back out to their feature branch, merges master, and fixes conflicts
 8. After resolving conflicts, person 1 pushes up feature
 9. Person 2 reviews pull request and merges it
+
+###### Credit for the example goes to David Whitaker 
