@@ -73,6 +73,7 @@ h1 {
 /* end form styles */
 
 .result {
+  border: dotted limegreen 3px;
   font-size: 4.5rem;
   height: 80px;
   margin-top: 3rem;
