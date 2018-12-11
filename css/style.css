@@ -73,6 +73,7 @@ h1 {
 /* end form styles */
 
 .result {
+  background-color: rebeccapurple;
   font-size: 4.5rem;
   height: 80px;
   margin-top: 3rem;
