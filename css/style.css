@@ -73,9 +73,11 @@ h1 {
 /* end form styles */
 
 .result {
+  border: dotted 5px cyan;
   font-size: 4.5rem;
   height: 80px;
   margin-top: 3rem;
   text-align: center;
+
 }
 
